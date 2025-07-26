@@ -1,16 +1,20 @@
 # reco_genie
 
-A new Flutter project.
+# 🍕 Food Menu App
 
-## Getting Started
+A simple Flutter app that displays a food menu (like pizza and pasta) using **GridView**.  
+The app fetches food names and prices from **Firebase Firestore**, and loads images from local assets.
 
-This project is a starting point for a Flutter application.
+🔗 [Live Repo](https://github.com/ZeyadRaafat/food_menu)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Load food items (name, price) from Firebase Firestore  
+- ✅ Display food images from local assets folder  
+- ✅ Clean UI with GridView layout  
+- ✅ Organized project using GetX (Controller/Model/View)
+
+
+
